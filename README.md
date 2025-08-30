@@ -1,6 +1,6 @@
  1.Setup and Run Instructions
 
-     1.git clone https://github.com/your-username/real-time-task-board.git
+     1.git clone https://github.com/Introversionguy/Trello-clone-Prajwal-Barde
      2.open terminal npm install
      3.npm run dev
 
